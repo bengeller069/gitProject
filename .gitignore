@@ -1,0 +1,7 @@
+/readme.md
+
+/index.html
+/styles.css
+
+# Ignore auto gen files
+/auto-gen/*.txt
